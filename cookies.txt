@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.vk.com	TRUE	/	FALSE	1999999999	remixir	DELETED
+.vk.com	TRUE	/	FALSE	1999999999	remixlang	3
+.vk.com	TRUE	/	FALSE	1999999999	remixstlid	9096621184099280755_8lqpxp8FGBCLxHJBZfyTU3yCshfZhfOVsxP9YiTWFzg
+

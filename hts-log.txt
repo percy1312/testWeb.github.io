@@ -1,0 +1,65 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 16 Jan 2025 19:46:12 at http://www.cantaclaro.com.pe +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://www.cantaclaro.com.pe -O1 "C:\Mis lugares Web\test" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+19:46:13	Warning: 	Note: due to www.cantaclaro.com.pe remote robots.txt rules, links beginning with these path will be forbidden: /wp-admin/ (see in the options to disable this)
+19:50:55	Warning: 	File not parsed, looks like binary: www.cantaclaro.com.pe/wp-content/themes/Impreza/fonts/fa-solid-900.woff2?ver=8.13.4
+19:50:55	Warning: 	File not parsed, looks like binary: www.cantaclaro.com.pe/wp-content/themes/Impreza/fonts/fa-regular-400.woff2?ver=8.13.4
+19:50:55	Warning: 	File not parsed, looks like binary: www.cantaclaro.com.pe/wp-content/themes/Impreza/fonts/fa-light-300.woff2?ver=8.13.4
+19:50:55	Warning: 	File not parsed, looks like binary: www.cantaclaro.com.pe/wp-content/themes/Impreza/fonts/fa-duotone-900.woff2?ver=8.13.4
+19:50:55	Warning: 	File not parsed, looks like binary: www.cantaclaro.com.pe/wp-content/themes/Impreza/fonts/fa-brands-400.woff2?ver=8.13.4
+19:50:55	Warning: 	File not parsed, looks like binary: www.cantaclaro.com.pe/wp-content/themes/Impreza/fonts/material-icons.woff2?ver=8.13.4
+19:50:55	Error: 	"Not Found" (404) at link www.cantaclaro.com.pe/wp-content/themes/Impreza/fonts/material-icons.woff?ver=8.13.4 (from www.cantaclaro.com.pe/)
+19:54:49	Warning: 	Moved Permanently for www.cantaclaro.com.pe/?p=35
+19:54:49	Warning: 	File has moved from www.cantaclaro.com.pe/?p=35 to http://www.cantaclaro.com.pe/nosotros/
+19:54:49	Warning: 	Moved Permanently for www.cantaclaro.com.pe/?p=135
+19:54:49	Warning: 	File has moved from www.cantaclaro.com.pe/?p=135 to http://www.cantaclaro.com.pe/menestras/
+19:55:20	Warning: 	Moved Permanently for www.cantaclaro.com.pe/?p=164
+19:55:20	Warning: 	File has moved from www.cantaclaro.com.pe/?p=164 to http://www.cantaclaro.com.pe/cereales/
+19:55:20	Warning: 	Moved Permanently for www.cantaclaro.com.pe/?p=114
+19:55:20	Warning: 	File has moved from www.cantaclaro.com.pe/?p=114 to http://www.cantaclaro.com.pe/blog/
+19:57:32	Warning: 	Moved Permanently for www.cantaclaro.com.pe/?p=123
+19:57:32	Warning: 	File has moved from www.cantaclaro.com.pe/?p=123 to http://www.cantaclaro.com.pe/contacto/
+19:57:32	Warning: 	Moved Permanently for www.cantaclaro.com.pe/?p=300
+19:57:32	Warning: 	File has moved from www.cantaclaro.com.pe/?p=300 to http://www.cantaclaro.com.pe/productos/moron-entero-5kg/
+19:57:32	Warning: 	Moved Permanently for www.cantaclaro.com.pe/?p=293
+19:57:32	Warning: 	File has moved from www.cantaclaro.com.pe/?p=293 to http://www.cantaclaro.com.pe/productos/papa-seca-amarilla-5kg/
+19:57:32	Warning: 	Moved Permanently for www.cantaclaro.com.pe/?p=292
+19:57:32	Warning: 	File has moved from www.cantaclaro.com.pe/?p=292 to http://www.cantaclaro.com.pe/productos/lenteja-richlea-5kg/
+19:57:32	Warning: 	Moved Permanently for www.cantaclaro.com.pe/?p=291
+19:57:32	Warning: 	File has moved from www.cantaclaro.com.pe/?p=291 to http://www.cantaclaro.com.pe/productos/arveja-verde-partida-5kg/
+19:57:32	Warning: 	Moved Permanently for www.cantaclaro.com.pe/?p=290
+19:57:32	Warning: 	File has moved from www.cantaclaro.com.pe/?p=290 to http://www.cantaclaro.com.pe/productos/trigo-mote-5kg/
+19:57:32	Warning: 	Moved Permanently for www.cantaclaro.com.pe/?p=285
+19:57:32	Warning: 	File has moved from www.cantaclaro.com.pe/?p=285 to http://www.cantaclaro.com.pe/productos/trigo-entero-pelado-5kg/
+19:57:32	Warning: 	Moved Permanently for www.cantaclaro.com.pe/?p=284
+19:57:32	Warning: 	File has moved from www.cantaclaro.com.pe/?p=284 to http://www.cantaclaro.com.pe/productos/frijol-caballero/
+19:57:32	Warning: 	Moved Permanently for www.cantaclaro.com.pe/?p=283
+19:57:32	Warning: 	File has moved from www.cantaclaro.com.pe/?p=283 to http://www.cantaclaro.com.pe/productos/arveja-verde-partida/
+19:57:32	Warning: 	Moved Permanently for www.cantaclaro.com.pe/?p=276
+19:57:32	Warning: 	File has moved from www.cantaclaro.com.pe/?p=276 to http://www.cantaclaro.com.pe/productos/frijol-panamito-2/
+19:57:32	Warning: 	Moved Permanently for www.cantaclaro.com.pe/?p=214
+19:57:32	Warning: 	File has moved from www.cantaclaro.com.pe/?p=214 to http://www.cantaclaro.com.pe/productos/garbanzo/
+19:57:32	Warning: 	Moved Permanently for www.cantaclaro.com.pe/?p=368
+19:57:32	Warning: 	File has moved from www.cantaclaro.com.pe/?p=368 to http://www.cantaclaro.com.pe/2023/09/16/tips-practicos-como-almacenar-legumbres-de-cantaclaro-para-conservar-su-frescura/
+19:57:32	Warning: 	Moved Permanently for www.cantaclaro.com.pe/?p=367
+19:57:32	Warning: 	File has moved from www.cantaclaro.com.pe/?p=367 to http://www.cantaclaro.com.pe/2023/09/16/sazon-peruana-en-casa-recetas-tradicionales-con-productos-cantaclaro/
+19:57:32	Warning: 	Moved Permanently for www.cantaclaro.com.pe/?p=348
+19:57:32	Warning: 	File has moved from www.cantaclaro.com.pe/?p=348 to http://www.cantaclaro.com.pe/2023/09/16/antaclaro-comprometidos-con-la-calidad-en-cada-paso-del-camino/
+19:57:32	Warning: 	Moved Permanently for www.cantaclaro.com.pe/?p=352
+19:57:32	Warning: 	File has moved from www.cantaclaro.com.pe/?p=352 to http://www.cantaclaro.com.pe/2023/09/15/explorando-los-poderosos-beneficios-nutricionales-de-las-legumbres/
+19:57:32	Warning: 	Moved Permanently for www.cantaclaro.com.pe/?p=350
+19:57:32	Warning: 	File has moved from www.cantaclaro.com.pe/?p=350 to http://www.cantaclaro.com.pe/2023/09/15/5-recetas-creativas-con-pallares-inspiradas-en-la-gastronomia-peruana/
+19:57:32	Warning: 	Moved Permanently for www.cantaclaro.com.pe/?p=112
+19:57:32	Warning: 	File has moved from www.cantaclaro.com.pe/?p=112 to http://www.cantaclaro.com.pe/2023/05/03/postres-creativos-que-incluyen-lentejas/
+19:57:32	Warning: 	Moved Permanently for www.cantaclaro.com.pe/?p=108
+19:57:32	Warning: 	File has moved from www.cantaclaro.com.pe/?p=108 to http://www.cantaclaro.com.pe/2023/05/03/consejos-y-trucos-para-sancochar-bien-tus-menestras/
+19:57:32	Warning: 	Moved Permanently for www.cantaclaro.com.pe/?p=95
+19:57:32	Warning: 	File has moved from www.cantaclaro.com.pe/?p=95 to http://www.cantaclaro.com.pe/2023/01/03/tips-para-aprovechar-al-maximo-las-harinas-deleita-tu-paladar-con-creatividad/
+
+HTTrack Website Copier/3.49-2 mirror complete in 11 minutes 20 seconds : 283 links scanned, 258 files written (17746178 bytes overall) [17979008 bytes received at 26439 bytes/sec], 2.6 requests per connection
+(1 errors, 53 warnings, 0 messages)
